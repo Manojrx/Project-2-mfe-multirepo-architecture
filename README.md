@@ -1,3 +1,22 @@
+> Remote Microfrontend App (Dashboard) — part of a multi-repo Angular MFE architecture using Module Federation.
+
+---
+
+## 📦 Overview
+
+This is a **remote microfrontend** built with **Angular** and integrated via **Webpack Module Federation** into a host shell app. It is independently deployable and version-controlled, making it ideal for modular frontend development.
+
+---
+
+## 🚀 Features
+
+- ✅ Standalone Angular microfrontend
+- 🔌 Exposes components/routes to host via Module Federation
+- 📦 Designed for independent deployment
+- 🛠️ Developed and versioned in its own repository
+
+---
+
 # RemoteApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
